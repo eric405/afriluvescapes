@@ -515,7 +515,7 @@ section
 	bottom: -11px;
 	width: calc(100% + 2px);
 	height: 2px;
-	background: linear-gradient(to right, #fa9e1b, #234a31);
+	background: linear-gradient(to right, #fa9e1b, #8d4fff);
 	content: '';
 	opacity: 0;
 	-webkit-transition: all 200ms ease;
@@ -628,7 +628,7 @@ section
 .hamburger i
 {
 	font-size: 24px;
-	color: #FFFFFF;
+	color: #000000;
 }
 .hamburger:hover i
 {

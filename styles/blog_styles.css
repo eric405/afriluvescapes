@@ -312,12 +312,12 @@ section
 {
 	position: fixed;
 	width: 100%;
-	background: rgba(54, 19, 84, 0.6);
+	background: rgba(255, 255, 255, 0.698);
 	z-index: 12;
 }
 .header.scrolled
 {
-	background: rgba(54, 19, 84, 0.85);
+	background: rgba(151, 148, 148, 0.85);
 }
 
 /*********************************
@@ -328,7 +328,7 @@ section
 {
 	width: 100%;
 	height: 36px;
-	background: #350a4e;
+	background: #234a31;
 	-webkit-transition: all 400ms ease;
 	-moz-transition: all 400ms ease;
 	-ms-transition: all 400ms ease;
@@ -455,13 +455,14 @@ section
 .logo a
 {
 	font-family: 'Open Sans', sans-serif;
-	font-size: 30px;
-	color: #f4f4f8;
+	font-size: 20px;
+	color: #234a31;
 	font-weight: 800;
 	text-transform: uppercase;
 }
 .logo a img
 {
+	height: 70px;
 	display: inline-block;
 	vertical-align: baseline;
 	margin-right: 9px;
@@ -495,7 +496,7 @@ section
 	font-family: 'Open Sans', sans-serif;
 	font-size: 13px;
 	font-weight: 600;
-	color: #FFFFFF;
+	color: black;
 	text-transform: uppercase;
 	padding-bottom: 10px;
 	padding-top: 10px;
@@ -621,7 +622,7 @@ section
 .hamburger i
 {
 	font-size: 24px;
-	color: #FFFFFF;
+	color: #000000;
 }
 .hamburger:hover i
 {
@@ -1065,6 +1066,7 @@ section
 }
 .latest_post_image
 {
+	
 	float: left;
 	z-index: 2;
 }
@@ -1150,7 +1152,7 @@ section
 	width: 100%;
 	padding-top: 113px;
 	padding-bottom: 104px;
-	background: #31124b;
+	background: #474747;
 }
 .footer_title
 {
@@ -1364,7 +1366,7 @@ section
 
 .copyright
 {
-	background: #1f0733;
+	background: white;
 }
 .copyright_content
 {
@@ -1374,7 +1376,7 @@ section
 {
 	font-size: 12px;
 	font-weight: 600;
-	color: #685677;
+	color: #000000;
 }
 .footer_nav_container
 {
@@ -1397,7 +1399,7 @@ section
 {
 	font-size: 12px;
 	font-weight: 600;
-	color: #685677;
+	color: #f1a314;
 	text-transform: uppercase;
 	line-height: 2;
 	-webkit-transition: all 200ms ease;

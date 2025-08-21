@@ -626,7 +626,7 @@ section
 .hamburger i
 {
 	font-size: 24px;
-	color: #FFFFFF;
+	color: #000000;
 }
 .hamburger:hover i
 {
@@ -637,7 +637,7 @@ section
 	position: fixed;
 	width: 100vw;
 	height: 100vh;
-	background: linear-gradient(to right, #fa9e1b, #8d4fff);
+	background: linear-gradient(to right, #fa9e1b, #ffffff);
 	z-index: 100;
 	opacity: 0;
 	visibility: hidden;
